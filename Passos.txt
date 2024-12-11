@@ -1,0 +1,13 @@
+1-- npx create-next-app@'versão do next' "nome do app" --use-npm 
+
+2-- Criar arquivos em pages para criar novas páginas
+
+3-- Criar pastas e componentes
+
+4-- Criar estilos para componentes
+
+5-- Criar pasta Services para back-end
+
+6-- npm i jsonwebtoken@ versão | instala o JWT para criar token
+
+7-- npm i cookies-next@ versão | Para gerar cookies 
